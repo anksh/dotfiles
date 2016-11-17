@@ -1,0 +1,9 @@
+Host caen
+ HostName login-course.engin.umich.edu
+ User ankshah
+Host fast-caen
+ HostName oncampus-course.engin.umich.edu
+ User ankshah
+Host eecs485
+ HostName class3.eecs.umich.edu
+ User ankshah
